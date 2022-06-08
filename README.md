@@ -6,6 +6,9 @@ Approach: From the given dataset, it is clear that that it is supervised learnin
 
 Output:
 Accuracy by applying Decision tree model on test data = 94.7%
+
 Accuracy by applying Random forest model on test data = 94.1%
+
 Accuracy by applying Support vector machine model on test data = 92.5%
+
 The highest model accuracy comes out to be 94.7% in case of decision tree model.
