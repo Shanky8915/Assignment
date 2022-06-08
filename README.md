@@ -1,6 +1,7 @@
 # Assignment
 ML Test
 Objective: Build a model that predicts/classifies whether a website is a Phishing website.
+
 Approach: From the given dataset, it is clear that that it is supervised learning task. The given data is the classification task. Therefore, the models considered for training are: Decision tree, Random forest and Support vector Machine (SVM)
 
 Output:
